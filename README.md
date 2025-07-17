@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm YouJeong 🐣</h1>
 
-<!--
-**yjspheal/yjspheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  SSAFY 14th | Python & SQL | Aspiring Data/AI Developer<br>
+  💡 Frontend-curious | 📊 Data-oriented | 🔍 Learning Algorithms
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### ✨ Highlights
+- 🎯 NH투자증권 빅데이터 경진대회 입선  
+- ☀️ POSTECH 태양광 입찰전략 경진대회 9위  
+- 📊 문화데이터 활용 공모전 본선 진출  
+- 🧠 GPT 기반 음식점 추천 챗봇 개발  
+- 🎮 게임사 데이터 엔지니어 인턴십 (9개월)
+
+---
+
+### 📫 Contact
+<p>
+  <a href="mailto:youjeong.dev@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YouJeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YouJeong&show_icons=true&theme=default" height="150"/>
+</p>
