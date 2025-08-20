@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm YouJeong 🐣</h1>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={유정)](https://solved.ac/uje1000)
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uje1000)](https://solved.ac/uje1000)
+
 
 <p align="center">
   SSAFY 14th | Python & SQL | Aspiring Data/AI Developer<br>
