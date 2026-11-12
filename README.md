@@ -1,15 +1,13 @@
 <h1 align="center">Hi! I'm YouJeong 🐣</h1>
 
 <p align="center">
-  📊 Data Engineer / AI Developer 지망 · SSAFY 14th<br>
-  <!-- TODO: 나를 한 줄로 소개하는 문장 (예: "데이터 파이프라인을 만들고, 그 위에서 모델을 굴리는 사람") -->
-  TODO: 한 줄 소개
+  📊 <b>Data Engineer</b> · LLM 학습 데이터<br>
+  수집부터 정제·중복 제거까지, 모델이 배울 데이터를 만듭니다
 </p>
 
 <p align="center">
   <a href="mailto:uje1000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://solved.ac/uje1000"><img src="https://img.shields.io/badge/solved.ac-uje1000-17CE3A?style=flat"/></a>
-  <!-- TODO: 블로그 / 포트폴리오 / LinkedIn 있으면 추가 -->
 </p>
 
 ---
@@ -33,28 +31,19 @@ LLM 학습용 비정형 데이터의 수집 → 정제 → 품질 검수 전 과
   - 풀이 과정 정오 / 데이터 오류 분류 모델 (타 부서 협업)
   - LaTeX 렌더링 검수 웹 툴 초안 개발 → 수동 검수 작업에 실사용
 
-**SSAFY 14기** <sub>TODO: YYYY.MM – 현재</sub>
-- TODO: 트랙/진행 중인 프로젝트 (없으면 이 블록 삭제)
+**SSAFY 14기** <sub>2025.07 – 2025.09</sub>
+- NC AI 입사로 조기 종료 (취업 퇴소)
 
 ---
 
-### 🏆 Awards
+### 🏆 Awards & Projects
 
-| 대회 | 결과 | 한 줄 요약 |
+| 연도 | 내용 | 결과 |
 |---|---|---|
-| NH투자증권 빅데이터 경진대회 <sub>TODO: 연도</sub> | 입선 | TODO: 무엇을 분석/예측했는지 · [repo](TODO) |
-| POSTECH 태양광 입찰전략 경진대회 <sub>TODO: 연도</sub> | 9위 | TODO: 접근 방법 · [repo](TODO) |
-| 문화데이터 활용 공모전 <sub>TODO: 연도</sub> | 본선 진출 | TODO: 아이디어 · [repo](TODO) |
-
----
-
-### 🚀 Projects
-
-**🧠 GPT 기반 음식점 추천 챗봇** · [repo](TODO)
-- TODO: 무엇을 하는 서비스인지 1줄
-- TODO: 맡은 역할 / 핵심 기술 (예: RAG, 크롤링, Streamlit …)
-
-<!-- TODO: 보여주고 싶은 프로젝트가 더 있으면 같은 형식으로 추가 -->
+| 2024 | 문화데이터 활용 공모전 | 본선 진출 |
+| 2023 | NH투자증권 빅데이터 경진대회 | 입선 |
+| 2023 | POSTECH 태양광 입찰전략 경진대회 | 9위 |
+| – | GPT 기반 음식점 추천 챗봇 개발 | 프로젝트 |
 
 ---
 
