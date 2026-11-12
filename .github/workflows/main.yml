@@ -28,7 +28,7 @@ jobs:
           user: yjspheal
           token: ${{ secrets.METRICS_TOKEN }}    # PAT 필요(레포/스코프 주의)
           template: classic
-          filename: dist/metrics-6m.svg
+          filename: dist/metrics-6m.svg                 # metrics 액션이 master에 직접 커밋함
           base: ""
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes

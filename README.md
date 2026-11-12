@@ -12,7 +12,7 @@
 ## 🐍 Snake & 🌱 3D Grass
 
 <!-- 3D 잔디 -->
-<img src="https://raw.githubusercontent.com/yjspheal/yjspheal/output/metrics-6m.svg" width="420">
+<img src="https://raw.githubusercontent.com/yjspheal/yjspheal/master/dist/metrics-6m.svg" width="420">
 
 <!-- Snake 애니메이션 (다크/라이트 모드 자동 전환) -->
 <picture>
