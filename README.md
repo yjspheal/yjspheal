@@ -16,9 +16,23 @@
 
 ### 💼 Experience
 
-**엔씨소프트 · 데이터 엔지니어 인턴** <sub>TODO: YYYY.MM – YYYY.MM (9개월)</sub>
-- TODO: 맡은 일 1 (무엇을 만들었는지 + 사용 기술)
-- TODO: 맡은 일 2 (가능하면 성과 수치: 처리량, 시간 단축 등)
+**TODO: NC AI? · 데이터 엔지니어 (계약직)** <sub>2025.09 – 2026.04</sub>
+- 인턴 이후 팀의 제안으로 재합류, TODO: 관리/리드 역할 한 줄 (예: 데이터 구축 프로젝트 일정·작업자 관리)
+- TODO: 논문 — 제목/학회 · [link](TODO)
+- TODO: 국가과제 — 과제명 한 줄
+- TODO: AX 리서치 — 무엇을 조사/제안했는지 한 줄
+
+**엔씨소프트 · 데이터엔지니어링팀 인턴** <sub>2024.05 – 2025.01</sub>
+
+LLM 학습용 비정형 데이터의 수집 → 정제 → 품질 검수 전 과정을 담당
+- **나무위키 코퍼스 구축 (end-to-end)** — 크롤링, 노이즈 제거, 파싱, 유해어 탐지까지 단독 수행 · 수동 검수 인력 관리
+- **대규모 다국어 코퍼스** — 중국어·일본어 각 1억 문장 규모 구축에 참여
+  - 중국어 약 2,000만 문단 전처리 단독 수행 (문장→문단 재구성, 저품질 문장 필터링)
+  - **MinHash LSH**로 중국어 전체 데이터 중복 제거
+- **수학 추론 데이터** — OCR된 문제집 데이터를 추론 학습용으로 가공
+  - 문제 난이도·유형 분류 모델 개발
+  - 풀이 과정 정오 / 데이터 오류 분류 모델 (타 부서 협업)
+  - LaTeX 렌더링 검수 웹 툴 초안 개발 → 수동 검수 작업에 실사용
 
 **SSAFY 14기** <sub>TODO: YYYY.MM – 현재</sub>
 - TODO: 트랙/진행 중인 프로젝트 (없으면 이 블록 삭제)
@@ -55,8 +69,12 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 
 **Data Engineering**
-<!-- TODO: 인턴 때 실제 쓴 것만 (예: Spark, Airflow, Kafka, Hadoop, BigQuery, Docker …) -->
-TODO
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/llama.cpp-000000?style=flat"/>
+
+Web Crawling · Text Cleaning & Parsing · MinHash LSH Dedup · Toxicity Filtering
 
 ---
 
